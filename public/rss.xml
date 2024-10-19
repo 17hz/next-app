@@ -1,0 +1,21 @@
+<?xml
+version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>vercel</title>
+        <link>https://next-app-ten-mu.vercel.app/</link>
+        <description>vercel rss</description>
+        <language>zh-CN</language>
+        <managingEditor>nobody</managingEditor>
+        <pubDate>Fri, 18 Oct 2024 18:03:16 +0800</pubDate>
+        <item>
+            <title>本周看什么 | 最近值得一看的 10 部作品</title>
+            <link>https://next-app-ten-mu.vercel.app/</link>
+            <description>☕️TL;DR近期佳作推荐：🔦[美剧]紧急呼救第八季、[美剧]高度潜力、[美剧]免责声明、[日剧]有母亲等待的故乡、[美剧]行尸走肉：达里尔·迪克森第二季、[电影]我们最后一次做孩子、[电影]某种物质 ...&lt;a href=&#34;https://sspai.com/post/93015 &#34;target=&#34;_blank &#34;&gt;查看全文 &lt;/a &gt;</description>
+            <author>少数派编辑部</author>
+            <pubDate>Fri, 18 Oct 2024 18:03:16 +0800</pubDate>
+        </item>
+        <atom:link href="https://next-app-ten-mu.vercel.app/rss.xml" type="application/rss+xml" ref="self"></atom:link>
+        <atom:link href="https://next-app-ten-mu.vercel.app/rss.xml" type="application/rss+xml" ref="hub"></atom:link>
+    </channel>
+</rss>
