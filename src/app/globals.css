@@ -25,3 +25,32 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Custom styles for the login page */
+.login-container {
+  @apply flex items-center justify-center min-h-screen bg-gray-100;
+}
+
+.login-form {
+  @apply bg-white p-6 rounded shadow-md w-full max-w-sm;
+}
+
+.login-title {
+  @apply text-2xl font-bold mb-4;
+}
+
+.login-error {
+  @apply text-red-500 mb-4;
+}
+
+.login-label {
+  @apply block text-gray-700;
+}
+
+.login-input {
+  @apply w-full px-3 py-2 border rounded;
+}
+
+.login-button {
+  @apply w-full bg-blue-500 text-white py-2 rounded hover:bg-blue-600;
+}
